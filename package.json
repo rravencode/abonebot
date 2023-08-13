@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "tesseract.js": "^4.0.5"
+  }
+}
